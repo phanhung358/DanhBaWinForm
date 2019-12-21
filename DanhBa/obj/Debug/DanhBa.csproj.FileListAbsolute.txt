@@ -1,0 +1,16 @@
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.exe.config
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.exe
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.pdb
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\EntityFramework.dll
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\EntityFramework.xml
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csprojAssemblyReference.cache
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.Properties.Resources.resources
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.GenerateResource.cache
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.CoreCompileInputs.cache
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.CopyComplete
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.exe
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.pdb
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.Migrations.khoitaodb.resources
+C:\Users\PHAN HUNG\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.frmDanhBa.resources
